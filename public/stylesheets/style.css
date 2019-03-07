@@ -1,0 +1,97 @@
+Body {
+  background-color: #4ABDAC;
+}
+
+nav {
+  padding-top: 20px;
+}
+
+.breadcrumbs li {
+  color: #FFFFFF;
+}
+
+.breadcrumbs li a {
+  color: #000000;
+}
+
+.breadcrumbs .disabled {
+  color: #DDDDDD;
+}
+
+.top-bar, .top-bar ul {
+  background-color: #F7B733;
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+}
+
+.top-bar a {
+  color: #FFFFFF;
+  font-weight: 700
+}
+
+.dropdown.menu li.is-dropdown-submenu-parent a::after {
+  border-color: #FFFFFF transparent transparent;
+}
+
+h1 {
+  font-weight: 800;
+  color: white;
+}
+
+h3 {
+  color: #000000;
+}
+
+.callout.secondary {
+  background-color: white;
+  border-color: #DFDCE3;
+}
+
+.remove-left-padding {
+  padding-left: 0;
+}
+
+.remove-right-padding {
+  padding-right: 0;
+}
+
+.middleboxes {
+  padding-top: 20px;
+}
+
+.button {
+  background-color: #4ABDAC;
+  font-weight: 700;
+}
+
+.button-red {
+  color: #FFFFFF;
+  background-color: #FC4A1A;
+}
+
+.header-text {
+  padding-left: 5px;
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
+.resources {
+  background-color: white;
+  height: 217px;
+}
+
+.resources .header-text, .form .header-text {
+  color: #FFFFFF;
+  width: 100%;
+  background-color: #4ABDAC;
+  border: white solid;
+}
+
+.form {
+  background-color: #FFFFFF;
+  border-left: #4ABDAC solid 4px;
+}
+/* GREEN: #4ABDAC
+RED: #FC4A1A
+YELLOW: #F7B733
+LIGHT GREY: #DFDCE3 */
